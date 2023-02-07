@@ -12,12 +12,12 @@ search: false
 }
 
 .notice--info {
-    font-size: 1em; // This is type-size-5
+    font-size: 1em !important; // This is type-size-5
 }
 
 hr { 
   background-color: #3d4144;
-  height: 1px !important; 
+  height: 1px;
   border: 0; 
 }
 
