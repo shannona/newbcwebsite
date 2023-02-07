@@ -1,9 +1,14 @@
 main:
+  - title: "Home"
+    url: /
+  - title: "Vision"
+    url: /vision.html
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    url: /about.html
+  - title: "Sponsors"
+    url: /sponsors.html
+  - title: "Projects"
+    url: /projects.html
+    
