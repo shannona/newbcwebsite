@@ -1,5 +1,10 @@
 ---
 cover: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/qr-background.jpg
+title: Our Sponsors
 classes:
   - wide
 hide_description: true

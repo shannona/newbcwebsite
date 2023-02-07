@@ -1,14 +1,15 @@
 ---
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/qr-background.jpg
+title: About Blockchain Commons
 cover: false
 hide_description: true
 classes:
 - wide
 permalink: /about.html
 ---
-
-# About Blockchain Commons
-
-{% include toc %}
 
 Blockchain Commons LLC was founded by Christopher Allen on April 25, 2019 as a not-for-profit entity focused on the creation of open, interoperable, secure & compassionate digital infrastructure, as described in our [Vision](https://www.blockchaincommons.com/vision.html). We want to advocate for the independent, private, and resilient control of digital assets, using open and interoperable specifications. The object is to put users and their human dignity first and to support and encourage their own safe and responsible management of digital assets. 
 
