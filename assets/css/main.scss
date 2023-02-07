@@ -9,6 +9,10 @@ search: false
   font-style: italic;
 }
 
+.notice--info {
+  font-size: $type-size-3;
+}
+
 hr { 
   background-color: #39c;
   height: 1px; 
