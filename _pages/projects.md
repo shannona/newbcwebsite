@@ -1,5 +1,7 @@
 ---
 cover: false
+classes:
+  - wide
 hide_description: true
 permalink: /projects.html
 ---
