@@ -5,8 +5,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
 title: Our Projects
-classes:
-  - wide
+toc: true
+toc_label: Projects
 hide_description: true
 permalink: /projects.html
 ---
