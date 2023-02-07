@@ -5,6 +5,8 @@ header:
   overlay_image: /images/qr-background.jpg
 title: Musings of a Trust Architect
 cover: false
+classes:
+- wide
 hide_description: true
 permalink: /musings.html
 ---
