@@ -9,6 +9,12 @@ search: false
   font-style: italic;
 }
 
+hr { 
+  background-color: #39c;
+  height: 1px; 
+  border: 0; 
+}
+
 $max-width:90%;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
