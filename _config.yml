@@ -67,6 +67,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BlockchainComns"
+    - label: "Discussions"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/Community/discussions"
 
 footer:
   links:
@@ -76,6 +79,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BlockchainComns"
+    - label: "Discussions"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/Community/discussions"
 
 defaults:
   # _posts
