@@ -1,6 +1,8 @@
 ---
 title: Vision
 cover: false
+classes:
+  - wide
 hide_description: true
 permalink: /vision.html
 ---
