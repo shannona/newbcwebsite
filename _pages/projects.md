@@ -13,8 +13,6 @@ permalink: /projects.html
 
 Blockchain Commons produces projects that fulfill its [Vision](https://www.blockchaincommons.com/vision.html). Much of this centers on an **Architecture** that focuses on our Gordian Principles of independence, privacy, resilience, and openness and that encourages responsible key management. This Architecture is built upon **Use Cases**, **Specifications** that enable those Use Cases, and **Developer Support** for incorporating those Specifications including Reference Libraries and CLI Apps. **Reference Apps** offer further examples to ensure that Specifications are integrated using best practices. Beyond its architectural core, Blockchain Commons also supports **Events**, **Educational Projects**, **Advocacy Projects**, and **Open Infastructure Projects**.
 
-{% include toc %}
-
 <hr>
 
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
