@@ -3,8 +3,6 @@
 search: false
 ---
 
-@import "minimal-mistakes";
-
 .page__subtitle {
   color: white;
   font-weight: bold;
@@ -12,13 +10,16 @@ search: false
 }
 
 .notice--info {
-    font-size: 2em; // This is type-size-5
+    font-size: 1em; // This is type-size-5
 }
 
 hr { 
-  background-color: #39c;
+  background-color: #3d4144;
   height: 1px; 
   border: 0; 
 }
 
 $max-width:90%;
+
+@import "minimal-mistakes";
+
