@@ -1,6 +1,8 @@
 ---
 cover: false
 hide_description: true
+classes:
+  - wide
 permalink: /index.html
 ---
 
